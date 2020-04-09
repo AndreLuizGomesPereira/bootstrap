@@ -1,6 +1,7 @@
-body{
+body {
     font: 20px Arial, sans-serif;
 }
+
 .navbar {
     background-color: #298A08;
 }
@@ -15,9 +16,12 @@ body{
     padding-top: 10px;
 }
 
-.parceiros{
+.parceiros {
     background-color: #58FAf4;
     color: white;
 }
 
-
+.bg-footer {
+    background-color: black;
+    color: white;
+}
